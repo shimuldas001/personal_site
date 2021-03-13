@@ -1,0 +1,35 @@
+
+body {
+	margin: 0;
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+	margin-top: 0;
+	font-family: 'Sacramento', cursive;
+}
+
+
+.top-container {
+	background-color: #ecc550ed;
+	padding-top: 100px;
+}
+
+.middle-container {
+	
+}
+
+.bottom-container {
+	
+}
+.travel {
+	position: absolute;
+	left: 800px;
+	bottom:200px;
+}
+.baloons {
+	position:absolute;
+	right: 900px;
+	top: 0px;
+}
